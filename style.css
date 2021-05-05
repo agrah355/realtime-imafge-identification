@@ -20,12 +20,11 @@
 }
 .result{
     float: none;
-
 }
-#camera{
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
     border: solid;
-    border-radius: 20px;
-    width: 299px;
-    height: 299px;
-    box-shadow: 5px 5px 10px gray;
+    margin-top: 165px;
+    margin-bottom: 250px;
 }
